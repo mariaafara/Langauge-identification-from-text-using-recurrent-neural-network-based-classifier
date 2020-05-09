@@ -1,6 +1,6 @@
 # Langauge-identification-from-text-using-recurrent-neural-network-based-classifier
 
-It is Neural network course software project assignment
+It is Neural network course software project assignment<br>
 Deliverable of assignment :
 1. Custom dataset, Custom datasetloader<br>
 2. Defining hyperparameters<br>
